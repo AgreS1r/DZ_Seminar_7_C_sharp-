@@ -1,0 +1,15 @@
+D:\C#\7dz\47z\obj\Debug\net7.0\47z.csproj.AssemblyReference.cache
+D:\C#\7dz\47z\obj\Debug\net7.0\47z.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\7dz\47z\obj\Debug\net7.0\47z.AssemblyInfoInputs.cache
+D:\C#\7dz\47z\obj\Debug\net7.0\47z.AssemblyInfo.cs
+D:\C#\7dz\47z\obj\Debug\net7.0\47z.csproj.CoreCompileInputs.cache
+D:\C#\7dz\47z\bin\Debug\net7.0\47z.exe
+D:\C#\7dz\47z\bin\Debug\net7.0\47z.deps.json
+D:\C#\7dz\47z\bin\Debug\net7.0\47z.runtimeconfig.json
+D:\C#\7dz\47z\bin\Debug\net7.0\47z.dll
+D:\C#\7dz\47z\bin\Debug\net7.0\47z.pdb
+D:\C#\7dz\47z\obj\Debug\net7.0\47z.dll
+D:\C#\7dz\47z\obj\Debug\net7.0\refint\47z.dll
+D:\C#\7dz\47z\obj\Debug\net7.0\47z.pdb
+D:\C#\7dz\47z\obj\Debug\net7.0\47z.genruntimeconfig.cache
+D:\C#\7dz\47z\obj\Debug\net7.0\ref\47z.dll
