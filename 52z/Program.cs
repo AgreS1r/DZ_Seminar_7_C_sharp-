@@ -9,17 +9,17 @@ GetAverageNumberInColomn(array);
 
 void GetAverageNumberInColomn(int[,] matr)
 {
-    for (int i = 0; i < matr.GetLength(1); i++)
+    for (int j = 0; j < matr.GetLength(1); j++)
     {
         double result = 0;
         int count = 0;
-        for (int j = 0; j < matr.GetLength(0); j++)
+        for (int i = 0; i < matr.GetLength(0); i++)
         {
-            result += matr[i, j]; 
+            result = result + matr[i, j]; 
             count++;
         }
         result = result / count;
-        Console.WriteLine($"{i+1}) {result}");
+        Console.WriteLine($"{j+1}) {result}");
     }
 }
 
